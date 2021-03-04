@@ -7,4 +7,4 @@ Jeremy holds professional certifications for AWS, GCP, and Kubernetes.
 
 https://www.linkedin.com/in/jeremycook123/
 
-https://github-readme-stats.vercel.app/api?username=jeremycook123
+![My Stats](https://github-readme-stats.vercel.app/api?username=jeremycook123)
