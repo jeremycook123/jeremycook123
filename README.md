@@ -1,5 +1,5 @@
 ### Content Lead Architect
-Jeremy leads the DevOps team here at CloudAcademy.
+Jeremy leads the DevOps team here at [Cloud Academy](https://cloudacademy.com/).
 
 Jeremy has a strong background in software engineering, he has been coding with various languages, frameworks, and systems for the past 25+ years. In recent times, Jeremy has been focused on DevOps, Cloud, Security, Kubernetes, and Machine Learning.
 
