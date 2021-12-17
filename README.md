@@ -5,7 +5,7 @@ Jeremy has a strong background in software engineering, he has been coding with 
 
 ![DevOps](./images/devops.png)
 
-Jeremy holds professional certifications for AWS, GCP, and Kubernetes.
+Jeremy holds professional certifications for AWS, GCP, and Kubernetes (CKA, CKAD).
 
 https://www.linkedin.com/in/jeremycook123/
 
