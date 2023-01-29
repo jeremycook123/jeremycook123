@@ -1,6 +1,6 @@
 ### Content Lead Architect
 - Jeremy leads the DevOps team here at [Cloud Academy](https://cloudacademy.com/).
-- Jeremy holds professional certifications for **AWS**, **GCP**, **Terraform**, and **Kubernetes** (CKA, CKAD, CKS).
+- Jeremy holds professional certifications for **AWS**, **Azure**, **GCP**, **Terraform**, and **Kubernetes** (CKA, CKAD, CKS).
 - Software engineering - language fluency:
   - Java
   - C#
